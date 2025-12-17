@@ -32,6 +32,7 @@ suppressPackageStartupMessages(library(JASPAR2020))
 suppressPackageStartupMessages(library(motifStack))
 suppressPackageStartupMessages(library(universalmotif))
 suppressPackageStartupMessages(library(data.table))
+suppressPackageStartupMessages(library(grImport2))
 ```
 
 ## LOAD FUNCTIONS
